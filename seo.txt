@@ -21,3 +21,6 @@ https://tw.shopping99.com/robots.txt
 
 
 crawl budget
+
+爬蟲頁 && 首頁
+disable-html 
