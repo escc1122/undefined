@@ -26,4 +26,14 @@ crawl budget
 disable-html 
 
 
-mena tag 轉址是為
+mena tag 轉址是為302
+
+404 :
+跳回首頁 404 X
+404頁面 轉址式404 X
+跳回上一頁 404
+custom 404
+放著不管
+
+
+
