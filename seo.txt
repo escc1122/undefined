@@ -1,7 +1,12 @@
+//放進熱門網頁
 googlebot simulator
 
 rss feed
+https://udn.com/rssfeed/lists/2
 
 submt url
 
 xml sitemap
+
+301永久轉址
+302 暫時轉址
