@@ -28,7 +28,7 @@ crawl budget
 disable-html 
 
 
-mena tag 轉址是為302
+robots meta tag 轉址是為302
 
 404 :
 跳回首頁 404 X
