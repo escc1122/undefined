@@ -14,3 +14,10 @@ xml sitemap
 
 http://www.google.com/ping?sitemap=http://www.yourdomain.com/sitemap.xml
 http://www.dummies.com/web-design-development/search-engine-optimization/how-to-submit-an-xml-sitemap-to-google-and-bing/
+
+
+
+https://tw.shopping99.com/robots.txt
+
+
+crawl budget
